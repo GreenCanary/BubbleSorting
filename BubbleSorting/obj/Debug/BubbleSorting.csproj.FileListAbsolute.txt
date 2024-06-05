@@ -1,0 +1,8 @@
+Z:\2023-2024 уч.год\12ИС\Иванов Михаил\BubbleSorting\bin\Debug\BubbleSorting.exe.config
+Z:\2023-2024 уч.год\12ИС\Иванов Михаил\BubbleSorting\bin\Debug\BubbleSorting.exe
+Z:\2023-2024 уч.год\12ИС\Иванов Михаил\BubbleSorting\bin\Debug\BubbleSorting.pdb
+Z:\2023-2024 уч.год\12ИС\Иванов Михаил\BubbleSorting\obj\Debug\BubbleSorting.csproj.AssemblyReference.cache
+Z:\2023-2024 уч.год\12ИС\Иванов Михаил\BubbleSorting\obj\Debug\BubbleSorting.csproj.SuggestedBindingRedirects.cache
+Z:\2023-2024 уч.год\12ИС\Иванов Михаил\BubbleSorting\obj\Debug\BubbleSorting.csproj.CoreCompileInputs.cache
+Z:\2023-2024 уч.год\12ИС\Иванов Михаил\BubbleSorting\obj\Debug\BubbleSorting.exe
+Z:\2023-2024 уч.год\12ИС\Иванов Михаил\BubbleSorting\obj\Debug\BubbleSorting.pdb
